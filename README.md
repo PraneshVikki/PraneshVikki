@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Pranesh
 
 # 🚀 About Me
-    I am a Software Engineer and competitive programmer..
+ I am a Software Engineer and competitive programmer..
 
 I Love working with 
 
