@@ -1,4 +1,4 @@
-## Hi there 👋 It's me Pranesh
+## Hi there 👋 It's me Pranesh.S
 
 # 🚀 About Me
  I am a Software Engineer and competitive programmer..
