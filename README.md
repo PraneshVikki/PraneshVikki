@@ -1,8 +1,5 @@
 ## Hi there 👋 It's me Pranesh
 
-<!--
-**PraneshVikki/PraneshVikki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Software Engineer
 
 I Love working with 
@@ -14,4 +11,4 @@ I Love working with
 
 [![PraneshVikki github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PraneshVikki&bg_color=050505&color=fdf7fd&line=4c9e5a&point=d4d4d4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
--->
+
