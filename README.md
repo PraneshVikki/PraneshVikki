@@ -20,6 +20,6 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/S-Pranesh?theme=dark&font=Merriweather%20Sans&ext=heatmap)
 
-[![PraneshVikki github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PraneshVikki&bg_color=050505&color=fdf7fd&line=4c9e5a&point=d4d4d4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![PraneshVikki github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PraneshVikki&bg_color=050505&color=fdf7fd&line=4c9e5a&point=d4d4d4&area=true&hide_border=true)]
 
 
